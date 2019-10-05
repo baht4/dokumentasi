@@ -16,4 +16,6 @@
              - (gunakan http://www.terminal.sexy untuk generate warna)
 	     - (copy paste ke .Xresources)
 
-4. 
+4. Bagaimana cara copy/paste di urxvt? 
+   Jawaban : - ctrl+alt+c 
+             - ctrl+alt+v
