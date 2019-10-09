@@ -11,4 +11,10 @@
 10. Tunggu Requestnya di Merge (gabungkan) oleh pemilik repositori
 
 ## Cara hubungkan repository local dengan repository online
+1. Buat repository online terlebih dahulu
+2. Setelah dibuat ikuti perintah yang tunjukkan di repository online
 
+## Perintah dasar
+1. git push origin <nama-branch>
+2. git merge <nama-branch> 
+3. git branch -d <nama-branch> (hapus branch)
